@@ -1,4 +1,3 @@
-from re import S
 import boto3
 from pprint import pprint
 
